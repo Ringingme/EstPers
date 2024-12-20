@@ -1,0 +1,77 @@
+,,Municipality,,County,
+Personality,Indicator,Moran’s I,P value,Moran’s I,P value
+Extraversion,Voting far-right parties,0.482,0,0.154,0.083
+Extraversion,Voting right-leaning parties,0.235,0.001,-0.133,0.643
+Extraversion,Voting left-leaning parties,0.137,0.026,-0.177,0.704
+Extraversion,Enterprise birth rate,-0.019,0.569,-0.143,0.647
+Extraversion,Enterprise death rate,-0.1,0.871,-0.13,0.606
+Extraversion,Income,0.256,0,0.069,0.179
+Extraversion,Unemployment,0.188,0.006,-0.008,0.318
+Extraversion,Married residents,0.358,0,0.027,0.202
+Extraversion,Foreign-born residents,0.318,0,-0.061,0.424
+Extraversion,Religiosity,0.371,0,-0.074,0.472
+Extraversion,Total crime,0.062,0.109,-0.183,0.748
+Extraversion,Daily activity limit,0.378,0,0.317,0.008
+Extraversion,Long-term illness,0.296,0,0.27,0.021
+Extraversion,University degree,0.104,0.071,0.012,0.286
+Extraversion,Urbanicity,-0.033,0.609,-0.136,0.636
+Openness,Voting far-right parties,0.603,0,0.207,0.047
+Openness,Voting right-leaning parties,0.241,0.001,-0.284,0.898
+Openness,Voting left-leaning parties,0.099,0.076,-0.168,0.688
+Openness,Enterprise birth rate,-0.005,0.413,0.05,0.155
+Openness,Enterprise death rate,-0.13,0.932,-0.017,0.351
+Openness,Income,0.459,0,0.242,0.03
+Openness,Unemployment,0.122,0.045,-0.136,0.621
+Openness,Married residents,0.452,0,-0.046,0.404
+Openness,Foreign-born residents,0.296,0,-0.165,0.706
+Openness,Religiosity,0.333,0,-0.184,0.738
+Openness,Total crime,0.241,0,-0.008,0.262
+Openness,Daily activity limit,0.611,0,0.416,0.001
+Openness,Long-term illness,0.519,0,0.386,0.004
+Openness,University degree,0.291,0,0.283,0.012
+Openness,Urbanicity,0.016,0.337,0.075,0.104
+Agreeableness,Voting far-right parties,0.474,0,0.059,0.201
+Agreeableness,Voting right-leaning parties,0.271,0,0.176,0.069
+Agreeableness,Voting left-leaning parties,0.102,0.071,-0.093,0.522
+Agreeableness,Enterprise birth rate,-0.03,0.673,-0.189,0.792
+Agreeableness,Enterprise death rate,-0.042,0.642,-0.039,0.394
+Agreeableness,Income,0.449,0,0.184,0.047
+Agreeableness,Unemployment,0.125,0.042,0.151,0.077
+Agreeableness,Married residents,0.331,0,-0.112,0.564
+Agreeableness,Foreign-born residents,0.236,0.001,0.027,0.256
+Agreeableness,Religiosity,0.324,0,0.002,0.316
+Agreeableness,Total crime,0.23,0,-0.161,0.747
+Agreeableness,Daily activity limit,0.521,0,0.309,0.009
+Agreeableness,Long-term illness,0.464,0,0.319,0.01
+Agreeableness,University degree,0.342,0,0.068,0.17
+Agreeableness,Urbanicity,0.022,0.294,-0.155,0.718
+Neuroticism,Voting far-right parties,0.541,0,0.002,0.308
+Neuroticism,Voting right-leaning parties,0.258,0,-0.11,0.573
+Neuroticism,Voting left-leaning parties,0.105,0.066,-0.16,0.671
+Neuroticism,Enterprise birth rate,-0.045,0.884,-0.097,0.549
+Neuroticism,Enterprise death rate,-0.077,0.797,-0.132,0.613
+Neuroticism,Income,0.446,0,0.195,0.042
+Neuroticism,Unemployment,0.135,0.031,-0.044,0.402
+Neuroticism,Married residents,0.406,0,-0.074,0.475
+Neuroticism,Foreign-born residents,0.275,0,-0.08,0.49
+Neuroticism,Religiosity,0.339,0,-0.094,0.528
+Neuroticism,Total crime,0.251,0,-0.081,0.49
+Neuroticism,Daily activity limit,0.531,0,0.172,0.065
+Neuroticism,Long-term illness,0.474,0,0.237,0.031
+Neuroticism,University degree,0.32,0,0.022,0.258
+Neuroticism,Urbanicity,0.021,0.303,-0.056,0.4
+Conscientiousness,Voting far-right parties,0.548,0,0.159,0.081
+Conscientiousness,Voting right-leaning parties,0.277,0,-0.167,0.735
+Conscientiousness,Voting left-leaning parties,0.148,0.02,-0.164,0.681
+Conscientiousness,Enterprise birth rate,-0.032,0.78,-0.023,0.322
+Conscientiousness,Enterprise death rate,-0.084,0.821,-0.108,0.558
+Conscientiousness,Income,0.481,0,0.123,0.096
+Conscientiousness,Unemployment,0.158,0.016,-0.088,0.511
+Conscientiousness,Married residents,0.417,0,0.016,0.233
+Conscientiousness,Foreign-born residents,0.305,0,-0.124,0.62
+Conscientiousness,Religiosity,0.346,0,-0.192,0.774
+Conscientiousness,Total crime,0.285,0,-0.03,0.317
+Conscientiousness,Daily activity limit,0.568,0,0.416,0.001
+Conscientiousness,Long-term illness,0.495,0,0.38,0.004
+Conscientiousness,University degree,0.349,0,0.009,0.276
+Conscientiousness,Urbanicity,0.064,0.127,-0.03,0.329
